@@ -11,7 +11,7 @@ export function Index() {
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
-            <h1>
+            <h1 className='font-bold font-serif text-black'>
               <span> Hello there, </span>
               Welcome nx-nextjs 👋
             </h1>
